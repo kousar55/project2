@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project-FlyAway/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/FlyAway"/>
+	<classpathentry kind="lib" path="Project-FlyAway/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/FlyAway/WEB-INF/lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="output" path="Project-FlyAway/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/FlyAway"/>
+</classpath>
